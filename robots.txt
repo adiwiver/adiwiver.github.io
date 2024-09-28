@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adiwiver.github.io/sitemap.adiwiver.gz
+Sitemap: https://adiwiver.github.io/app/sitemap.adiwiver.gz
+Sitemap: https://adiwiver.github.io/assets/sitemap.adiwiver.gz
+Sitemap: https://adiwiver.github.io/css/sitemap.adiwiver.gz
+Sitemap: https://adiwiver.github.io/data/sitemap.adiwiver.gz
+Sitemap: https://adiwiver.github.io/includes/sitemap.adiwiver.gz
+Sitemap: https://adiwiver.github.io/item/sitemap.adiwiver.gz
+Sitemap: https://adiwiver.github.io/src/sitemap.adiwiver.gz
